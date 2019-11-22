@@ -1,5 +1,7 @@
 # 有中国特色的PHP大马
 
+>Forked from [JosephTribbianni/Stitch](https://github.com/JosephTribbianni/Stitch) on 2019/11/22
+
 一个管理员看见都不确定怎么回事不敢直接删的娱乐向PHP webshell。我将其命名为：Stitch。
 
 
@@ -109,22 +111,4 @@ LD_PRELOAD：
 密码为 YZVlYfiI  ，是随机生成的字符串，用户名爱填啥填啥，不填都没人管你。
 
 
-
-## 声明
-
-本PHP文件仅用于学习过程中的一个简单产物，算是阶段性学习成果吧，纯技术学习，用于给跟我一样的PHP小白学习和参考。
-
-请勿用于违法行为，后果自负。
-
-
-
-## 反馈
-
-全部功能已经测试成功，但是各种BUG那是一定的，欢迎提 issues 或在[博客](https://su18.org)文章下面留言，我尽量积极回复，然而更新肯定是不可能的了。
-
-
-
-## 鸣谢
-
-感谢前端巨佬 [**素依依**](https://github.com/LittleGremlin) 提供的前端支持（全是她写的）。
 
